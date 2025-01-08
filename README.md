@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Mobile App and Web Computing 
 - 💞️ I’m looking to collaborate on Wep Projects 
 - 📫 How to reach me bodyaborzy@gmail.com
-- 😄 Pronouns: Are you male or female, I'm an email
 - ⚡ Fun fact: motorcyclist
 
 <!---
